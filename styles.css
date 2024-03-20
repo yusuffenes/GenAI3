@@ -1,0 +1,155 @@
+/* CSS dosyası (styles.css) */
+
+/* Genel stiller */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa; /* Sayfa arka plan rengi */
+    color: #333; /* Metin rengi */
+}
+
+header {
+    background-color: #313840; /* Başlık arka plan rengi */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 36px;
+    color: #fff; /* Başlık metin rengi */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff; /* Menü bağlantıları metin rengi */
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #fff; /* Üzerine gelince menü bağlantıları metin rengi */
+}
+
+section {
+    padding: 50px 20px;
+}
+
+section h2 {
+    font-size: 28px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+section h2::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50px;
+    height: 2px;
+    background-color: #007bff;
+}
+
+/* Hakkımda bölümü stilleri */
+.avatar-container {
+    text-align: center;
+}
+.about-me {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #555;
+}
+
+.avatar-container img {
+    border-radius: 50%;
+    width: 450px;
+    height: 450px;
+    transition: transform 0.3s ease;
+}
+
+.avatar-container img:hover {
+    transform: scale(1.1);
+}
+
+/* Projeler bölümü stilleri */
+.project {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    transition: transform 0.3s ease;
+}
+
+.project img {
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.project-description {
+    flex: 1;
+}
+
+.project:hover {
+    transform: scale(1.05);
+}
+
+/* İletişim formu stilleri */
+.contact-form input,
+.contact-form textarea,
+.contact-form button {
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.contact-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.contact-form button:hover {
+    background-color: #0056b3;
+}
+
+/* Sosyal medya bağlantıları stilleri */
+.social-links a {
+    text-decoration: none;
+    color: #007bff;
+    margin-right: 10px;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #0056b3;
+}
+
+/* Footer stilleri */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}

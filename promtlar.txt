@@ -1,21 +1,21 @@
 Promt 1
-Modern, sofistike ve kullanıcı dostu bir kişisel blog web sitesi oluşturmak için HTML ve CSS kodlarını tasarlayın. Web siteniz, ziyaretçilerinizi etkileyecek zarif bir ‘Anasayfa’, derinlemesine bir ‘Hakkımda’ bölümü, görsel olarak zengin bir ‘Projeler’ galerisi ve etkileşimli bir ‘İletişim’ formu içermelidir. ‘Anasayfa’ bölümünde, sitenizin amacını ve içeriğini vurgulayan büyük ve dikkat çekici bir başlık yer almalı. ‘Hakkımda’ bölümünde, profesyonel geçmişinizi, becerilerinizi ve tutkularınızı anlatan detaylı bir biyografi bulunmalı. ‘Projeler’ bölümünde, her bir projenizi detaylandıran ve ziyaretçilerin ilgisini çekecek interaktif öğeler içeren bir düzen oluşturun. ‘İletişim’ bölümünde, ziyaretçilerin sizinle kolayca iletişime geçebileceği, sosyal medya bağlantıları ve bir geri bildirim formu ekleyin. CSS ile, sitenizin görsel estetiğini artıracak zarif tipografi, renk şeması ve animasyonlar kullanarak, her bölüm için benzersiz ve çekici bir tasarım oluşturun. Tüm cihazlarda mükemmel görüntülenecek şekilde duyarlı (responsive) bir yapı sağlayın.
+Modern, sofistike ve kullanÄ±cÄ± dostu bir kiÅŸisel blog web sitesi oluÅŸturmak iÃ§in HTML ve CSS kodlarÄ±nÄ± tasarlayÄ±n. Web siteniz, ziyaretÃ§ilerinizi etkileyecek zarif bir â€˜Anasayfaâ€™, derinlemesine bir â€˜HakkÄ±mdaâ€™ bÃ¶lÃ¼mÃ¼, gÃ¶rsel olarak zengin bir â€˜Projelerâ€™ galerisi ve etkileÅŸimli bir â€˜Ä°letiÅŸimâ€™ formu iÃ§ermelidir. â€˜Anasayfaâ€™ bÃ¶lÃ¼mÃ¼nde, sitenizin amacÄ±nÄ± ve iÃ§eriÄŸini vurgulayan bÃ¼yÃ¼k ve dikkat Ã§ekici bir baÅŸlÄ±k yer almalÄ±. â€˜HakkÄ±mdaâ€™ bÃ¶lÃ¼mÃ¼nde, profesyonel geÃ§miÅŸinizi, becerilerinizi ve tutkularÄ±nÄ±zÄ± anlatan detaylÄ± bir biyografi bulunmalÄ±. â€˜Projelerâ€™ bÃ¶lÃ¼mÃ¼nde, her bir projenizi detaylandÄ±ran ve ziyaretÃ§ilerin ilgisini Ã§ekecek interaktif Ã¶ÄŸeler iÃ§eren bir dÃ¼zen oluÅŸturun. â€˜Ä°letiÅŸimâ€™ bÃ¶lÃ¼mÃ¼nde, ziyaretÃ§ilerin sizinle kolayca iletiÅŸime geÃ§ebileceÄŸi, sosyal medya baÄŸlantÄ±larÄ± ve bir geri bildirim formu ekleyin. CSS ile, sitenizin gÃ¶rsel estetiÄŸini artÄ±racak zarif tipografi, renk ÅŸemasÄ± ve animasyonlar kullanarak, her bÃ¶lÃ¼m iÃ§in benzersiz ve Ã§ekici bir tasarÄ±m oluÅŸturun. TÃ¼m cihazlarda mÃ¼kemmel gÃ¶rÃ¼ntÃ¼lenecek ÅŸekilde duyarlÄ± (responsive) bir yapÄ± saÄŸlayÄ±n.
 
-Promt 2 : Hakkımda kısmının üstüne sayfaya ortalanmış şekilde bir avatar koymak istiyorum bunu da ekler misin lütfen ayrıca projeler kısmında her proje için bir resim eklemek istiyorum onu da benim ayrıca bu projeler alt alta değil yan yana gözüksün
+Promt 2 : HakkÄ±mda kÄ±smÄ±nÄ±n Ã¼stÃ¼ne sayfaya ortalanmÄ±ÅŸ ÅŸekilde bir avatar koymak istiyorum bunu da ekler misin lÃ¼tfen ayrÄ±ca projeler kÄ±smÄ±nda her proje iÃ§in bir resim eklemek istiyorum onu da benim ayrÄ±ca bu projeler alt alta deÄŸil yan yana gÃ¶zÃ¼ksÃ¼n
 
-Promt 3: şimdi de sayfa bembeyaz ve çok düz gözüküyor bu nedenle birbirine karışabilir bunu da düzeltir misin sayfayı daha renkli hale getir
+Promt 3: ÅŸimdi de sayfa bembeyaz ve Ã§ok dÃ¼z gÃ¶zÃ¼kÃ¼yor bu nedenle birbirine karÄ±ÅŸabilir bunu da dÃ¼zeltir misin sayfayÄ± daha renkli hale getir
 
-Resimler için Promtlar
-Promt 1 :Eğitim ve öğrenme unsurlarını içeren bir illüstrasyon tasarımı oluşturun.
-Çıktı  : Ogrenme.jpg
+Resimler iÃ§in Promtlar
+Promt 1 :EÄŸitim ve Ã¶ÄŸrenme unsurlarÄ±nÄ± iÃ§eren bir illÃ¼strasyon tasarÄ±mÄ± oluÅŸturun.
+Ã‡Ä±ktÄ±  : Ogrenme.jpg
 
-Promt 2 :web3 ve blockchain teknolojileri ile ilgili bir logo tasarımı oluşturun
-Çıktı : web3.jpg
+Promt 2 :web3 ve blockchain teknolojileri ile ilgili bir logo tasarÄ±mÄ± oluÅŸturun
+Ã‡Ä±ktÄ± : web3.jpg
 
-Promt 3 :Bir rent a car projem bulunuyor bunun için bana bir logo tasarlayabilir misin lütfen
-Çıktı : rentacar.jpg
-Promt 4 : Sadece bir insan yüzü görünecek şekilde bir insan portresi oluşturu musun lütfen
-Çıktı : avatar.jpg
+Promt 3 :Bir rent a car projem bulunuyor bunun iÃ§in bana bir logo tasarlayabilir misin lÃ¼tfen
+Ã‡Ä±ktÄ± : rentacar.jpg
+Promt 4 : Sadece bir insan yÃ¼zÃ¼ gÃ¶rÃ¼necek ÅŸekilde bir insan portresi oluÅŸturu musun lÃ¼tfen
+Ã‡Ä±ktÄ± : avatar.jpg
 
-Not : Resimler için Microsoft Copilot Designer kullanılmıştır. Kodlar için ChatGPT 3.5 kullanılmıştır. 
+Not : Resimler iÃ§in Microsoft Copilot Designer kullanÄ±lmÄ±ÅŸtÄ±r. Kodlar iÃ§in ChatGPT 3.5 kullanÄ±lmÄ±ÅŸtÄ±r. 
 ChatGPT sohbet linki : https://chat.openai.com/share/6e0c9f35-144d-40e1-9e74-e384b3f82fb0

@@ -1,12 +1,19 @@
 Promt 1
-Modern, sofistike ve kullanıcı dostu bir kişisel blog web sitesi oluşturmak için HTML ve CSS kodlarını tasarlayın. Web siteniz,
-ziyaretçilerinizi etkileyecek zarif bir ‘Anasayfa’, derinlemesine bir ‘Hakkımda’ bölümü, görsel olarak zengin bir ‘Projeler’ galerisi ve etkileşimli bir ‘İletişim’ formu 
-içermelidir. ‘Anasayfa’ bölümünde, sitenizin amacını ve içeriğini vurgulayan büyük ve dikkat çekici bir başlık yer almalı. ‘Hakkımda’ bölümünde, profesyonel geçmişinizi, becerilerinizi ve tutkularınızı anlatan 
-detaylı bir biyografi bulunmalı. ‘Projeler’ bölümünde, her bir projenizi detaylandıran ve ziyaretçilerin ilgisini çekecek interaktif öğeler içeren bir düzen oluşturun. ‘İletişim’ bölümünde, ziyaretçilerin sizinle kolayca iletişime geçebileceği, sosyal medya bağlantıları ve bir geri bildirim formu ekleyin. CSS ile, sitenizin görsel estetiğini artıracak zarif tipografi, renk şeması ve animasyonlar kullanarak, her bölüm için benzersiz ve çekici bir tasarım oluşturun. Tüm cihazlarda mükemmel görüntülenecek şekilde duyarlı (responsive) bir yapı sağlayın.
+Modern, sofistike ve kullanıcı dostu bir kişisel blog web sitesi oluşturmak için HTML ve CSS kodlarını tasarlayın. Web siteniz
+ziyaretçilerinizi etkileyecek zarif bir ‘Anasayfa’, derinlemesine bir ‘Hakkımda’ bölümü, görsel olarak zengin bir ‘Projeler’ 
+galerisi ve etkileşimli bir ‘İletişim’ formu içermelidir. ‘Anasayfa’ bölümünde, sitenizin amacını ve içeriğini vurgulayan
+büyük ve dikkat çekici bir başlık yer almalı. ‘Hakkımda’ bölümünde, profesyonel geçmişinizi, becerilerinizi ve tutkularınızı 
+anlatan detaylı bir biyografi bulunmalı. ‘Projeler’ bölümünde, her bir projenizi detaylandıran ve ziyaretçilerin ilgisini çekecek 
+interaktif öğeler içeren bir düzen oluşturun. ‘İletişim’ bölümünde, ziyaretçilerin sizinle kolayca iletişime geçebileceği, sosyal medya 
+bağlantıları ve bir geri bildirim formu ekleyin. CSS ile, sitenizin görsel estetiğini artıracak zarif tipografi, renk şeması ve 
+animasyonlar kullanarak, her bölüm için benzersiz ve çekici bir tasarım oluşturun. Tüm cihazlarda mükemmel görüntülenecek şekilde 
+duyarlı (responsive) bir yapı sağlayın.
 
-Promt 2 : Hakkımda kısmının üstüne sayfaya ortalanmış şekilde bir avatar koymak istiyorum bunu da ekler misin lütfen ayrıca projeler kısmında her proje için bir resim eklemek istiyorum onu da benim ayrıca bu projeler alt alta değil yan yana gözüksün
+Promt 2 : Hakkımda kısmının üstüne sayfaya ortalanmış şekilde bir avatar koymak istiyorum bunu da ekler misin lütfen ayrıca projeler 
+kısmında her proje için bir resim eklemek istiyorum onu da benim ayrıca bu projeler alt alta değil yan yana gözüksün
 
-Promt 3: şimdi de sayfa bembeyaz ve çok düz gözüküyor bu nedenle birbirine karışabilir bunu da düzeltir misin sayfayı daha renkli hale getir
+Promt 3: şimdi de sayfa bembeyaz ve çok düz gözüküyor bu nedenle birbirine karışabilir bunu da düzeltir misin sayfayı daha renkli 
+hale getir
 
 Resimler için Promtlar
 Promt 1 :Eğitim ve öğrenme unsurlarını içeren bir illüstrasyon tasarımı oluşturun.

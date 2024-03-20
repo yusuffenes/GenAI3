@@ -1,0 +1,21 @@
+Promt 1
+Modern, sofistike ve kullanýcý dostu bir kiþisel blog web sitesi oluþturmak için HTML ve CSS kodlarýný tasarlayýn. Web siteniz, ziyaretçilerinizi etkileyecek zarif bir ‘Anasayfa’, derinlemesine bir ‘Hakkýmda’ bölümü, görsel olarak zengin bir ‘Projeler’ galerisi ve etkileþimli bir ‘Ýletiþim’ formu içermelidir. ‘Anasayfa’ bölümünde, sitenizin amacýný ve içeriðini vurgulayan büyük ve dikkat çekici bir baþlýk yer almalý. ‘Hakkýmda’ bölümünde, profesyonel geçmiþinizi, becerilerinizi ve tutkularýnýzý anlatan detaylý bir biyografi bulunmalý. ‘Projeler’ bölümünde, her bir projenizi detaylandýran ve ziyaretçilerin ilgisini çekecek interaktif öðeler içeren bir düzen oluþturun. ‘Ýletiþim’ bölümünde, ziyaretçilerin sizinle kolayca iletiþime geçebileceði, sosyal medya baðlantýlarý ve bir geri bildirim formu ekleyin. CSS ile, sitenizin görsel estetiðini artýracak zarif tipografi, renk þemasý ve animasyonlar kullanarak, her bölüm için benzersiz ve çekici bir tasarým oluþturun. Tüm cihazlarda mükemmel görüntülenecek þekilde duyarlý (responsive) bir yapý saðlayýn.
+
+Promt 2 : Hakkýmda kýsmýnýn üstüne sayfaya ortalanmýþ þekilde bir avatar koymak istiyorum bunu da ekler misin lütfen ayrýca projeler kýsmýnda her proje için bir resim eklemek istiyorum onu da benim ayrýca bu projeler alt alta deðil yan yana gözüksün
+
+Promt 3: þimdi de sayfa bembeyaz ve çok düz gözüküyor bu nedenle birbirine karýþabilir bunu da düzeltir misin sayfayý daha renkli hale getir
+
+Resimler için Promtlar
+Promt 1 :Eðitim ve öðrenme unsurlarýný içeren bir illüstrasyon tasarýmý oluþturun.
+Çýktý  : Ogrenme.jpg
+
+Promt 2 :web3 ve blockchain teknolojileri ile ilgili bir logo tasarýmý oluþturun
+Çýktý : web3.jpg
+
+Promt 3 :Bir rent a car projem bulunuyor bunun için bana bir logo tasarlayabilir misin lütfen
+Çýktý : rentacar.jpg
+Promt 4 : Sadece bir insan yüzü görünecek þekilde bir insan portresi oluþturu musun lütfen
+Çýktý : avatar.jpg
+
+Not : Resimler için Microsoft Copilot Designer kullanýlmýþtýr. Kodlar için ChatGPT 3.5 kullanýlmýþtýr. 
+ChatGPT sohbet linki : https://chat.openai.com/share/6e0c9f35-144d-40e1-9e74-e384b3f82fb0
